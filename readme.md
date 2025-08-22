@@ -26,8 +26,7 @@ This project allows admins to create roles with specific permissions and assign 
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/rbac-system.git
-cd rbac-system
+git clone https://github.com/AmalSanthosh1403/ERP_BE
 
 ### 2. Create and activate virtual environment
 python -m venv venv
