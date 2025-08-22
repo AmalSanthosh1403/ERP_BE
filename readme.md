@@ -48,9 +48,3 @@ python manage.py runscript seed_rbac
 The default admin user created(not superuser):
 
 ### 1. Clone the repository
-
-
-### 1. Clone the repository
-### 1. Clone the repository
-### 1. Clone the repository
-### 1. Clone the repository
