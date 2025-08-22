@@ -26,7 +26,7 @@ This project allows admins to create roles with specific permissions and assign 
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/rbac-system.git
+git clone https://github.com/AmalSanthosh1403/ERP_BE
 cd rbac-system
 
 ### 2. Create and activate virtual environment
@@ -48,10 +48,4 @@ python manage.py runscript seed_rbac
 
 The default admin user created(not superuser):
 
-### 1. Clone the repository
-
-
-### 1. Clone the repository
-### 1. Clone the repository
-### 1. Clone the repository
 ### 1. Clone the repository
