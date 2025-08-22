@@ -28,6 +28,7 @@ This project allows admins to create roles with specific permissions and assign 
 ### 1. Clone the repository
 git clone https://github.com/AmalSanthosh1403/ERP_BE
 
+
 ### 2. Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
